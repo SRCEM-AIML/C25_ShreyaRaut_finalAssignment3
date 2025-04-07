@@ -63,7 +63,7 @@ If you prefer not to build locally, you can pull pre-built images from Docker Hu
   ```
   docker pull shreyaraut12/my-flask-app
   ```
-  (See: [https://hub.docker.com/r/shreyaraut12/my-flask-app](https://hub.docker.com/r/shreyaraut12/my-flask-app))
+  (See: [[https://hub.docker.com/r/shreyaraut12/my-flask-app](https://hub.docker.com/r/shreyaraut12/my-flask-app)]
 - Django App:
   ```
   docker pull shreyaraut12/my-django-app
